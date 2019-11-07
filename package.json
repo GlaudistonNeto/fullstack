@@ -1,0 +1,9 @@
+{
+  "name": "bugtracker",
+  "version": "1.0.0",
+  "description": "A node.js repositoy containing another fullstack code",
+  "main": "index.js",
+  "repository": "https://github.com/GlaudistonNeto/fullstack",
+  "author": "GNeto",
+  "license": "MIT"
+}
